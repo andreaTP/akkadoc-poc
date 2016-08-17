@@ -19,10 +19,10 @@ https://andreatp.github.io/akkadoc-poc/
 
 enable "Load unsafe scripts"
 
-first time you get an error, don't worry this is a beta so
+first time you get an error from the fiddle after a long compilation time, don't worry this is a beta so
 
 Reset
 and
 Run
 
-again please.
+please.
